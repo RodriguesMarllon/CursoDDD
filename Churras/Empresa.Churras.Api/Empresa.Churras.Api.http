@@ -1,6 +1,0 @@
-@Empresa.Churras.Api_HostAddress = http://localhost:5063
-
-GET {{Empresa.Churras.Api_HostAddress}}/weatherforecast/
-Accept: application/json
-
-###
